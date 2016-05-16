@@ -1,4 +1,4 @@
-package kmutt.senior.pet;
+package kmutt.senior.UI;
 
 import org.junit.Test;
 
