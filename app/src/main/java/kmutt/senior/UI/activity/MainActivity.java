@@ -1,4 +1,4 @@
-package kmutt.senior.pet.activity;
+package kmutt.senior.UI.activity;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
