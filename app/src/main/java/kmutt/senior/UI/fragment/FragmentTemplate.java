@@ -7,7 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import kmutt.senior.UI.R;
+import kmutt.senior.pet.R;
+
 
 /**
  * Created by last3oy on 26/01/2016.

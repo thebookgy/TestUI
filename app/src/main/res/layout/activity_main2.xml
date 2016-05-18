@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto">
+
+
+
+
+    <kmutt.senior.UI.MyCustomView
+        android:id="@+id/customView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        custom:circleTextColor="@android:color/white"
+        />
+
+    <kmutt.senior.UI.MyCustomView
+        android:id="@+id/customView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        custom:circleTextColor="@android:color/white"
+        />
+
+</RelativeLayout>
+
+
